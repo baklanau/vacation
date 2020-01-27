@@ -1,2 +1,2 @@
 # vacation
-FileReader, FileWritere
+FileReader, FileWriter
